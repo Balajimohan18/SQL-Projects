@@ -1,6 +1,6 @@
 # SQL-Projects
 The repository contains Structured Query Language (SQL) Scripts. The Multiple SQL scripts for various projects which includes data cleaning, data pre-processing, data processing, data transformation and insights gaining through Query Language.
-## -[Blue Data Data Analysis](Blue%20Dart%20Data%20Analysis)_
+## _[Blue Data Data Analysis](Blue%20Dart%20Data%20Analysis)_
 The data is collected from stake holders and through their websites. The payments are in international standards (i.e.,USD) and also their ways of exports and imports through various methods of shipping and cargos.
 * Categories - The Categories dataset has Category Id, Category Name. (No. of Records - 8)
 * Employee Details - The dataset has Employee Id, Name, Birth Date, Age, Qualification, Hire Date, photo. (No. of Records - 10)
